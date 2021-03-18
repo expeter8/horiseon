@@ -4,6 +4,8 @@
     margin: 0;
 }
 
+/*set body background-color to white*/
+
 body {
     background-color: #d9dcd6;
 }
@@ -85,7 +87,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/* Benefit style starts here */
 .benefit {
     margin-bottom: 32px;
     color: #ffffff;
@@ -101,7 +103,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/*Search style starts here*/
 .Search {
     margin-bottom: 20px;
     padding: 50px;
